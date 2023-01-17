@@ -1,0 +1,89 @@
+.details summary {
+    color: white;
+    margin: 0% 40%;
+    padding: 10px;
+    background-color: tomato;
+    text-align: center;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+
+.details .li {
+    color: white;
+    margin: 0% 20%;
+    padding: 10px;
+    background-color: rgba(83, 51, 124, 0.767);
+    text-align: center;
+}
+
+.no2,
+.no3,
+.no4 {
+    margin: 10px 0px;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    font-size: 36px;
+    background-color: rgb(97, 0, 0);
+    padding: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-image: url("https://images.all-free-download.com/images/graphicthumb/grunge_blue_snowy_background_310557.jpg");
+    object-fit: cover;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.no2 .details summary {
+    color: white;
+    margin: 0% 40%;
+    padding: 10px;
+    background-color: green;
+    text-align: center;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+
+.no3 .details pre,
+.no3 .details h5 {
+    color: white;
+    margin: 0% 20%;
+    padding: 10px;
+    background-color: rgba(83, 51, 124, 0.767);
+    text-align: center;
+}
+
+.no3 .details summary {
+    color: white;
+    margin: 0% 40%;
+    padding: 10px;
+    background-color: rgb(12, 113, 196);
+    text-align: center;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+
+.no4 .details summary {
+    color: white;
+    margin: 0% 40%;
+    padding: 10px;
+    background-color: rgb(238, 38, 24);
+    text-align: center;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}

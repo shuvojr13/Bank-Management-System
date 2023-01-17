@@ -1,0 +1,39 @@
+    h2 {
+        color: white;
+        text-align: center;
+        background-color: tomato;
+        border: 2px solid;
+        margin: 0% 30%;
+        border-radius: 30px;
+        -webkit-border-radius: 30px;
+        -moz-border-radius: 30px;
+        -ms-border-radius: 30px;
+        -o-border-radius: 30px;
+        padding: 10px;
+    }
+    
+    table {
+        margin: 10% 20%;
+        background-color: rgb(170, 99, 120);
+        padding: 40px;
+    }
+    
+    h3 {
+        color: white;
+        text-align: center;
+        background-color: rgb(102, 11, 75);
+        border: 2px solid;
+        padding: 10px;
+        margin: 0% 30%;
+    }
+    
+    pre {
+        text-align: left;
+        color: white;
+        padding: 5px;
+        background-color: rgb(42, 27, 71);
+    }
+    
+    html {
+        background-color: rgb(240, 150, 66);
+    }

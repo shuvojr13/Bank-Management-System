@@ -1,0 +1,109 @@
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px 15px;
+}
+
+.contactus {
+    background-color: #5555;
+    padding: 15px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    display: block;
+    border: 1px solid white;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.terms {
+    background-color: #5555;
+    padding: 15px;
+    border: 1px solid white;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    display: block;
+    margin-left: 50px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.contactus h3 {
+    color: white;
+    background-color: rgba(7, 4, 41, 0.521);
+    padding: 15px;
+    border: 1px solid white;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 12px;
+    margin-right: 100px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+
+.contactus p {
+    color: lightblue;
+    font-size: 10px;
+    text-align: left;
+}
+
+.contactus h3:hover {
+    background-color: white;
+    color: black;
+}
+
+.terms h4:hover {
+    background-color: white;
+    color: black;
+}
+
+.linkweb {
+    color: white;
+    padding: 5px;
+    background-color: rgba(125, 162, 177, 0.329);
+    text-align: center;
+    font-size: 12px;
+    margin-left: 40%;
+    margin-right: 40%;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+
+.footer {
+    background-color: rgb(34, 25, 25);
+    color: white;
+    background-image: url("foter.jpg");
+    background-size: cover;
+}
+
+.terms h4 {
+    color: white;
+    margin-left: 60px;
+    background-color: rgba(7, 4, 41, 0.521);
+    padding: 15px;
+    border: 1px solid white;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 12px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+
+.terms p {
+    color: lightblue;
+    font-size: 10px;
+    text-align: center;
+    margin-left: 80px;
+}

@@ -1,0 +1,15 @@
+header h1 {
+    background-color: rgb(10, 10, 71);
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid white;
+}
+
+div p {
+    background-color: black;
+    color: white;
+    padding: 50px;
+    text-align: center;
+    margin-top: 20%;
+}

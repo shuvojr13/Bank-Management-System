@@ -1,0 +1,63 @@
+    h2 {
+        color: white;
+        background-color: rgba(6, 68, 14, 0.884);
+        padding: 15px;
+        border: 1px solid white;
+        border-radius: 30px;
+        text-align: center;
+        margin-right: 40%;
+        margin-left: 40%;
+        -webkit-border-radius: 30px;
+        -moz-border-radius: 30px;
+        -ms-border-radius: 30px;
+        -o-border-radius: 30px;
+    }
+    
+    h2:hover {
+        background-color: white;
+        color: black;
+    }
+    
+    pre {
+        background-color: rgb(16, 61, 18);
+        color: white;
+        padding: 15px;
+        border: 1px solid white;
+        border-radius: 20px;
+        -webkit-border-radius: 20px;
+        -moz-border-radius: 20px;
+        -ms-border-radius: 20px;
+        -o-border-radius: 20px;
+        display: block;
+        margin-left: 50px;
+        margin-right: 10%;
+        margin-left: 10%;
+    }
+    
+    html {
+        background-color: black;
+        background-image: url('about.jpg');
+        background-size: cover;
+    }
+    
+    table {
+        border: 6px solid white;
+        border-collapse: collapse;
+        color: white;
+        margin-left: 20%;
+        margin-right: 20%;
+        background-color: rgb(25, 87, 25);
+    }
+    
+    th,
+    td,
+    tr {
+        border: 2px solid white;
+        border-collapse: collapse;
+        color: white;
+        padding: 10px;
+    }
+    
+    th {
+        background-color: tomato;
+    }

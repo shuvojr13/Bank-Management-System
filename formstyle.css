@@ -1,0 +1,64 @@
+.tms {
+    background-color: rgb(35, 36, 35);
+    padding: 15px;
+    border: 2px solid;
+    color: white;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.fs label {
+    color: white;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 25px;
+    margin-right: 20px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+
+.a11 {
+    padding: 15px;
+    margin: 6px 8px;
+}
+
+#ok2 {
+    float: left;
+}
+
+#ok {
+    background-color: rgb(18, 102, 18);
+    padding: 10px;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    margin-right: 40px;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+
+html {
+    background-image: url("Tmoney.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    background-color: white;
+    border: 2px solid;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    padding: 10px;
+}

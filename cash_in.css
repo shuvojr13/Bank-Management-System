@@ -1,0 +1,62 @@
+html {
+    background-color: rgb(68, 8, 92);
+    color: white;
+}
+
+.form {
+    background-color: rgb(128, 22, 62);
+    color: white;
+    margin: 0% 20%;
+    border: 6px solid white;
+}
+
+tr,
+th,
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+#ok1 {
+    padding: 10px;
+    margin: 20px;
+    background-color: green;
+    color: white;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+#ok2 {
+    padding: 10px;
+    margin: 20px;
+    background-color: red;
+    color: white;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+h4 {
+    color: white;
+    text-align: center;
+    background-color: tomato;
+    border: 2px solid;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    padding: 10px;
+}
+
+.msg {
+    margin-left: 40%;
+    padding: 10px;
+}
